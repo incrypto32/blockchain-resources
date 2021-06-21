@@ -55,6 +55,6 @@ A channel which helps you learn to build decentralized apps on the Ethereum Bloc
 
 ##### [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, with contributions from our friends in the broader Ethereum community.
-
+ 
 ##### [Ethernaut](https://ethernaut.openzeppelin.com/)
 The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
