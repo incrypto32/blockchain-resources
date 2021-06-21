@@ -12,6 +12,6 @@ jobs:
         with:
           auth: ${{ secrets.GIST_TOKEN }}
           gist_url: https://gist.github.com/incrypto32/ec7d74ea496599014bb8ed34d0d706f9
-          gist_title: Blockchain Development Learning Resources
+          gist_title: eth_resources.md
           gist_description: A curated list of learning resource for blockchain development
           github_file: README.md
