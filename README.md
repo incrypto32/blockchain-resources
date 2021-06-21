@@ -1,7 +1,7 @@
 # Blockchain development learning resources
 
 ## Introduction to Ethereum
-
+ 
 #### [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 The Ethereum white paper written by Vitalik Buterin which started it all.Ethereum Whitepaper was a dramatic breakthrough in unlocking the power of decentralized technologies
 
